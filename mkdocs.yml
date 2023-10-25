@@ -108,7 +108,7 @@ plugins:
   - callouts
   - glightbox
   - mermaid2:
-      version: 10.6
+      version: 10.6.0
 hooks:
   - overrides/hooks/on_page_markdown.py
   - overrides/hooks/on_env.py
